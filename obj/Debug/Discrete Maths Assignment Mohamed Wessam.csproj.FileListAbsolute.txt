@@ -1,0 +1,8 @@
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\bin\Debug\Discrete Maths Assignment Mohamed Wessam.exe.config
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\bin\Debug\Discrete Maths Assignment Mohamed Wessam.exe
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\bin\Debug\Discrete Maths Assignment Mohamed Wessam.pdb
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\obj\Debug\Discrete Maths Assignment Mohamed Wessam.csproj.AssemblyReference.cache
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\obj\Debug\Discrete Maths Assignment Mohamed Wessam.csproj.SuggestedBindingRedirects.cache
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\obj\Debug\Discrete Maths Assignment Mohamed Wessam.csproj.CoreCompileInputs.cache
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\obj\Debug\Discrete Maths Assignment Mohamed Wessam.exe
+C:\Users\docst\Desktop\SwE\C#\Discrete Maths Assignment Mohamed Wessam\Discrete Maths Assignment Mohamed Wessam\obj\Debug\Discrete Maths Assignment Mohamed Wessam.pdb
